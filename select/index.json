@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "不健全",
+  "base_artist": "RuLu",
+  "createdAt": "2026-03-26T14:09:52.373061Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "不健全",
+      "artist": "RuLu",
+      "has_synced": false,
+      "path": "select/pl_01_不健全_RuLu.txt"
+    }
+  ]
+}
